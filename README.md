@@ -1,6 +1,6 @@
 # Projeto Shopping Cart
 
-Acesse o projeto <a href="https://biancabera.github.io/Trybe-Shopping-Cart/">AQUI</a>
+Acesse meu projeto <a href="https://biancabera.github.io/Trybe-Shopping-Cart/">AQUI</a>
 
 Primeiro projeto do módulo de Front-end, realizado com aprendizados sobre requisições de API's e funções assíncronas. Fizemos um carrinho de compras utilizando API público do mercado livre, onde acrescentamos itens ao nosso carrinho, retiramos e pode-se esvaziar o carrinho, limpando todos os itens. Nesse projeto também foram realizados testes com Jest, você pode acessar através da pasta 'tests'.
 
